@@ -1,3 +1,3 @@
 # CLINICA DENTAL 
-Automatizar la gestión de citas, historiales médicos, cobros, facturación y reportes para eliminar procesos manuales, reducir errores y mejorar la experiencia del paciente y la eficiencia del personal.
+El sistema de gestión para la clínica dental busca automatizar citas, historiales médicos, cobros, facturación y reportes, eliminando procesos manuales, reduciendo errores y mejorando la experiencia de pacientes y personal  
 
